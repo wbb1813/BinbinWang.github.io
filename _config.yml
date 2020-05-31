@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Binbin Wang"
 title_separator          : "-"
 name                     : &name "Binbin Wang"
-description              : &description "My name is Binbin Wang. I am a Ph.D. student of Tongji University."
+description              : &description "I am currently a Ph.D. student of Tongji Universiy and Research Affiliate at the School of Life Science and Technology. I am interested in developing computational technologies to understand the function of immune cells, specially in the context of human physiology and disease."
 url                      : https://wbb1813.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wbb1813/wbb1813.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Binbin Wang"
+  avatar           : "images/IMG_3920.jpg"
+  bio              : "I am currently a Ph.D. student of Tongji Universiy and Research Affiliate at the School of Life Science and Technology."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=binbin+wang"
+  googlescholar    : "https://scholar.google.com/citations?user=bZlpqAUAAAAJ&hl=zh-CN&oi=ao"
+  email            : "wangbinbintj@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wbb1813"
   google_plus      :
   keybase          :
   instagram        :
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:
