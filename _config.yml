@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  resarch:
+  research:
     output: true
     permalink: /:collection/:path/
 
