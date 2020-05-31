@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Binbin Wang"
-  avatar           : "images/IMG_3920.jpg"
+  avatar           : "https://github.com/wbb1813/wbb1813.github.io/blob/master/images/IMG_3920.jpg"
   bio              : "I am currently a Ph.D. student of Tongji Universiy and Research Affiliate at the School of Life Science and Technology."
   location         : "Location"
   employer         :
