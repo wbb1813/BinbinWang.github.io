@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Education: 2014.07-Pres. Graduate Research
+# 2014.07-Pres. Graduate Research
 
 ## Algorithm development of CRISPR screen data analysis
 
