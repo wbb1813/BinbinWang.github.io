@@ -3,7 +3,7 @@ title: "CRISPR Screens Identify Essential Cell Growth Mediators of Resistance to
 collection: publications
 permalink: /publication/2020-03-CRISPR-BRAFi-M238R
 excerpt: ''
-date: 2020-03
+date: 2020-03-15
 venue: 'Genomics, Proteomics & Bioinformatics'
 paperurl: ''
 citation: 'Ziyi Li, Binbin Wang, et al. (2020). &quot;CRISPR Screens Identify Essential Cell Growth Mediators of Resistance to BRAF Inhibitor in Melanoma.&quot; <i>Genomics, Proteomics & Bioinformatics</i>. 1(2).'
